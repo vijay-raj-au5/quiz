@@ -1,0 +1,19 @@
+.question{
+  height: 300px;
+}
+
+
+.badge {
+  transform: scale(0.9);
+  font-weight: 500;
+}
+
+.badge-heading {
+  width: 39px;
+  background-color: white;
+  color: black;
+}
+#login{
+  height: 400px;
+  background-color: rgb(red, green, blue);
+}
